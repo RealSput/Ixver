@@ -1,5 +1,5 @@
 # Ixver
-Ixver (_eiks·vur_) is a web voice assistant I made for fun. It is built on top of Microsoft's DialoGPT.
+Ixver (_iyks·vur_) is a web voice assistant I made for fun. It is built on top of Microsoft's DialoGPT.
 
 # What is it useful for?
 Ixver is useful for handlessly getting quick answers to uncomplicated questions. For example, when you're wondering what a company is, you can say:
