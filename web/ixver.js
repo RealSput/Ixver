@@ -1,5 +1,5 @@
 if (location.protocol === 'https:') {
-    const stl = `    #grad1 {
+    const stl = `#grad1 {
       position: fixed;
       top: 80%;
       left: 0%;
