@@ -8,6 +8,7 @@ Ixver is useful for handlessly getting quick answers to uncomplicated questions.
 .. and it usually returns with this:
 
 > It's a company that makes computers.
+
 It can do a lot, ... and sometimes not a lot.
 
 Since it is built on DialoGPT (a superiorly less powerful, but open-source chatbot model) it cannot do the same things that a voice assistant like Siri or Google assistant can do.
