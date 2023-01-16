@@ -11,7 +11,7 @@ Ixver is useful for handlessly getting quick answers to uncomplicated questions.
 
 It can do a lot, ... and sometimes not a lot.
 
-Since it is built on DialoGPT (a superiorly less powerful, but open-source chatbot model) it cannot do the same things that a voice assistant like Siri or Google assistant can do.
+Since it is built on DialoGPT (a less powerful model than ChatGPT, but open-source) it cannot do the same things that a voice assistant like Siri or Google assistant can do.
 
 For example, getting a result to a mathematical problem (even 1+1) will almost never work.
 
