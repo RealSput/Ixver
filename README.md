@@ -38,7 +38,7 @@ The result, well... I'll just have to show you:
 So that's why I discourage using this on a website outside of Ixver's homepage.
 
 # But... what if __I do__ want to use it on a different website?
-If you do end up wanting to use it on a different website, then download an extenstion (like GreaseMonkey), paste the code from web/ixver.js into the editor (+ give it a name), and visit every website. I must warn you though, you __will__ need to give every website permission for your microphone.
+If you do end up wanting to use it on a different website, then download an extenstion (like GreaseMonkey), paste the code from web/ixver.js into the editor (+ give it a name), and visit any website. I must warn you though, you __will__ need to give every website permission for your microphone.
 
 # Where can I try it?
 You can try it at the [homepage](https://realsput.github.io/Ixver/). 
