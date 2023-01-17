@@ -170,11 +170,6 @@ if (location.protocol === 'https:') {
         document.querySelector('#ixver-prompt').innerText = "";
         document.querySelector("#grad1").classList.remove("inactive");
         document.querySelector("#grad1").classList.add("active");
-        setTimeout(() => {
-          document.querySelector("#grad1").classList.remove("active");
-          document.querySelector("#grad1").classList.add("inactive");
-          fin = false;
-        }, 5000);
       };
     }, 100);`;
     const element = document.createElement('script');
