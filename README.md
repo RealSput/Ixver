@@ -43,5 +43,9 @@ So that's why I discourage using this on a website outside of Ixver's homepage.
 # But... what if __I do__ want to use it on a different website?
 If you do end up wanting to use it on a different website, then download an extenstion (like Grease/TamperMonkey), and click the button on the top. It should then install Ixver for you.
 
+If you want to implement it in your own website, you should download the "web/ixver.js" file, place it in your web server, and put this in your page:
+```html
+<script src='ixver.js"></script>
+```
 # Where can I try it?
 You can try it at the [homepage](https://realsput.github.io/Ixver/). 
